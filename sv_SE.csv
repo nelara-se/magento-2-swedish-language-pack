@@ -5116,8 +5116,8 @@ new products will be created. Use this step to customize images and price for yo
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Vi har fått en begäran om att ändra följande information i samband med ditt konto på %store_name: e-post.",module,Magento_Customer
 "Reset your %store_name password","Återställ ditt %store_name lösenord",module,Magento_Customer
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
-"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
+"If you requested this change, set a new password here:","Om du begärde denna ändring sätter du ett nytt lösenord här:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Om du inte gjorde denna begäran kan du ignorera det här e-postmeddelandet och ditt lösenord förblir detsamma.",module,Magento_Customer
 "Your %store_name password has been changed","Ditt %store_name lösenord har ändrats",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Vi har fått en begäran om att ändra följande information i samband med ditt konto på %store_name: lösenord.",module,Magento_Customer
 "Checkout as a new customer","Gå till Kassan som en ny kund",module,Magento_Customer
@@ -15344,7 +15344,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?",module,Magento_User
 "Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
 "%name,","%name",module,Magento_User
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_User
+"There was recently a request to change the password for your account.","En begäran om att ändra lösenordet för ditt konto gjordes nyligen vår webbplats.",module,Magento_User
 "If you requested this change, reset your password here:","If you requested this change, reset your password here:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_User
 "Thank you,","Tack,",module,Magento_User
