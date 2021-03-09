@@ -12442,6 +12442,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Your %store_name order confirmation","Beställningsbekräftelse från %store_name",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","När din order är behandlad och skickad kommer vi skicka dig ett trackning nummer som du kan spåra din beställning med.",module,Magento_Sales
+"Once your order is processed, you will receive an order confirmation with information about the delivery date.","Så snart din order är behandlad så kommer du att få en orderbekräftelse med besked om leveransdatum.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Din beställning <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Lagd <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Once your package ships we will send an email with a link to track your order.","När ditt paket levereras skickar vi ett mail med en länk till spåra din beställning.",module,Magento_Sales
